@@ -1,10 +1,8 @@
-import ch01.CoffeeMaker;
-import ch01.LogWriter;
+package ch01;
 
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Main {
+public class Cafe {
     public static void main(String[] args) {
         // 커피 메이커 인스턴스 얻어서 커피를 만들게 동작 시키기
         System.out.println("- 카페 오픈 -");
